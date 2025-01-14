@@ -7,3 +7,8 @@
     width: 1920px;
     margin: auto;
  }
+ .git{
+    display: flex;
+    gap: 70px;
+    margin-left: 80px;
+ }
